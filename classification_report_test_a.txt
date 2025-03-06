@@ -1,0 +1,10 @@
+Test-A Classification Report:
+              precision    recall  f1-score   support
+
+      Normal       0.14      0.42      0.21        19
+          AF       1.00      0.93      0.96      1759
+       Other       0.21      0.95      0.34        22
+
+    accuracy                           0.93      1800
+   macro avg       0.45      0.77      0.50      1800
+weighted avg       0.98      0.93      0.95      1800

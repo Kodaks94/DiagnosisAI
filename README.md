@@ -1,4 +1,7 @@
-Here’s the README file based on your **ECG Classification Using BPTT-Powered LSTMs** project:
+**ECG Classification Using BPTT-Powered LSTMs** project:
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
